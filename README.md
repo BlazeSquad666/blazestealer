@@ -18,6 +18,7 @@ This tool is for educational use only, the author will not be held responsible f
 $NotInfected - Discord (notinfected666)
 
 # Commands
+```
 𝕭𝖑𝖆𝖟𝖊𝕾𝖙𝖊𝖆𝖑𝖊𝖗 - 𝕮𝖔𝖒𝖒𝖆𝖓𝖉𝖘 (Part 1)
 .antikillproc: Causes a blue screen when trying to close the process.
 .cap: Takes a screenshot of the victim's computer.
@@ -70,4 +71,4 @@ $NotInfected - Discord (notinfected666)
 .screenoff: Turn off the victim's screen.
 .wallpaper: Change the victim's desktop wallpaper.
 .uacbypass: Disable UAC of the victim's PC.
-.bypass: Reopen the virus with Admin Perms of the victim's PC.
+.bypass: Reopen the virus with Admin Perms of the victim's PC.```
